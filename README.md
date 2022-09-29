@@ -22,8 +22,6 @@ In addition to this, we will also be practising using inbuilt methods such as:
 - push()
 - continue
 
-And many more.
 
-I would love to see your finished game to please do tag me on YouTube, Twitter (ania_kubow) or Instagram :)
 
 
